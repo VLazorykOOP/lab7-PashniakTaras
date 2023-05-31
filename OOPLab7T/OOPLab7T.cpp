@@ -4,12 +4,12 @@
 #include <iostream>
 #include <clocale>
 
-int main()
+int main()s=
 {
     setlocale(LC_CTYPE, "ukr");
     std::cout << "Лабораторна робота №7  \n";
     std::cout << "Автоматизована система ...  \n";
-    std::cout << "Test ...!!!  \n";
+    std::cout << "Test ...!!! asd \n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
